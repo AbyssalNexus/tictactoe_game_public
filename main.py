@@ -1,7 +1,7 @@
 import pygame
 import sys
 
-class tictactoe:
+class Tictactoe:
     def __init__(self) -> None:
         # 画面サイズ
         self.width = 600
